@@ -1,0 +1,32 @@
+_repo: At-the-Time-Appointed_21892
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Marchand, J. N.
+    gutenberg_agent_id: '6834'
+    url: http://www.gutenberg.org/2009/agents/6834
+covers:
+- cover_type: archival
+  image_path: 21892-h/images/fcoversm.jpg
+creator:
+  author:
+    agent_name: Barbour, A. Maynard (Anna Maynard)
+    alias: Barbour, Anna Maynard
+    deathdate: 1941
+    gutenberg_agent_id: '841'
+    url: http://www.gutenberg.org/2009/agents/841
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Maynard_Barbour
+description: ''
+gutenberg_issued: '2007-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+title: At the Time Appointed
+url: http://www.gutenberg.org/ebooks/21892
